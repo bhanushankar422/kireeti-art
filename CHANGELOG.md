@@ -13,4 +13,4 @@
 - None
 
 ### Fixed
-- None
+- Fixed extra space above images on iPhone Safari by using the safe-area-inset-top environment variable.
